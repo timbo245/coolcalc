@@ -258,5 +258,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageButton5"
         android:src="@drawable/equal"
-        android:background="#00ffffff" />
+        android:background="#00ffffff"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingTop="100dp"
+        android:paddingRight="15dp" />
 </RelativeLayout>
